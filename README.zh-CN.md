@@ -35,9 +35,9 @@ ccs
 
 ## 演示视频
 
-30 秒看完 ccs 是什么、怎么用（[直接看 MP4](docs/video/ccs-demo.zh.mp4)）：
+30 秒看完 ccs 是什么、怎么用：
 
-[![ccs 演示视频](docs/video/ccs-demo.zh.thumb.png)](docs/video/ccs-demo.zh.mp4)
+https://github.com/user-attachments/assets/9df9ab95-305e-4959-9126-e4880e2aa297
 
 ## 一览
 

@@ -37,7 +37,7 @@ That's it. Pick a session, hit `Enter`, and your terminal is taken over in place
 
 See what ccs is and how to use it in 30 seconds (中文版见 [README.zh-CN.md](README.zh-CN.md)):
 
-[![ccs demo video](docs/video/ccs-demo.en.thumb.png)](docs/video/ccs-demo.en.mp4)
+https://github.com/user-attachments/assets/9731c19d-c41c-47d2-966a-cc7c7cc90eb0
 
 ## What you get — at a glance
 
