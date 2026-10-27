@@ -186,6 +186,29 @@ ccs --check    # 非交互：统计会话/项目/归档数与最新标题
 python3 test_ccs.py    # assert 式，无框架，58 项检查
 ```
 
+## 更新日志
+
+- **[Changelog](CHANGELOG.md)** — 从 1.0.0 到最新版本的发布记录。
+
+## 致谢
+
+- [Linux.do](https://linux.do) — 社区
+- [Claude Code](https://claude.com/claude-code) — 本工具读取的会话格式来源
+
 ## 许可
 
 [MIT](LICENSE)
+
+## ⭐ Star History
+
+如果这个项目对你有帮助，请点一个 ⭐ —— 这是我们持续改进的动力。
+
+<div align="center">
+  <a href="https://www.star-history.com/#biedongbin/claude-code-session-manager&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=biedongbin/claude-code-session-manager&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=biedongbin/claude-code-session-manager&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=biedongbin/claude-code-session-manager&type=Date" width="760" />
+    </picture>
+  </a>
+</div>

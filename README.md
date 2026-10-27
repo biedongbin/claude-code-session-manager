@@ -186,6 +186,29 @@ Power users can also hand-edit `~/.ccs/config.json`: `{"custom": {"nord": ["cyan
 python3 test_ccs.py    # assert-style, no framework, 58 checks
 ```
 
+## Release notes
+
+- **[Changelog](CHANGELOG.md)** — release history from 1.0.0 to the latest version.
+
+## Acknowledgments
+
+- [Linux.do](https://linux.do) — community
+- [Claude Code](https://claude.com/claude-code) — the session format this tool reads
+
 ## License
 
 [MIT](LICENSE)
+
+## ⭐ Star History
+
+If this project helps you, please give it a ⭐ — it motivates us to keep improving.
+
+<div align="center">
+  <a href="https://www.star-history.com/#biedongbin/claude-code-session-manager&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=biedongbin/claude-code-session-manager&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=biedongbin/claude-code-session-manager&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=biedongbin/claude-code-session-manager&type=Date" width="760" />
+    </picture>
+  </a>
+</div>
